@@ -25,7 +25,7 @@ public class NumOpsTest {
 	
 	@Test
 	public void testDivideFaulty() {	
-		assertTrue(ops.divide() == 3.0);
+		assertTrue(ops.divide() == 3.0)
 	}
 
 }
