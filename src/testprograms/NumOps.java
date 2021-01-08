@@ -14,7 +14,7 @@ public class NumOps {
 	}
 	
 	public double divide() {
-		return this.number1/this.number2;
+		return this.number1/this.number2
 	}
 
 }
