@@ -1,6 +1,5 @@
 language: java
-before_install:
-  - cd java
+
 script: 
-  - javac ./src/testprograms/*.java
-  - java ./bin/testprograms.NumOpsTest
+  - javac ./src/testprograms/NumOps.java
+  - java ./bin/testprograms.NumOps
