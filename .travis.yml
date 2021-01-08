@@ -1,4 +1,4 @@
 language: java
 
-script: javac ./src/testprograms/NumOps.java
+script: javac ./src/testprograms/*.java
 
