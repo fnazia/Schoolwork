@@ -1,4 +1,4 @@
-package testprograms
+package testprograms;
 
 public class NumOps {
 	
